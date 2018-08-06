@@ -1,0 +1,28 @@
+﻿absolute path:C:\Users\Open AG\Documents\GitHub\openag-mechanical\prj\germinator v3\2
+init:1
+run_capture:1
+run_solver:1
+new_calc:1
+close_monitor:0
+run_convert:0
+isOK:1
+ForceNewCalc:1
+run_capture_prestate:1
+StartFldName:C:\Users\Open AG\Documents\GitHub\openag-mechanical\prj\germinator v3\2\2.fld
+TransTimeMoments:
+TransFldNames:
+CurSelTranFld:0
+Trans:0
+UsePrevRes:0
+ForcetoRunCPT:1
+ComputerName:
+port:55478
+ProcessResults:1
+LoadLastResult:1
+ProcessorsToUse:0
+LoadBaseFLDFile:0
+BaseFLDFile:
+id:{36A33BFE-6351-4D1A-A682-73E3CAED13B9}
+calculation_state:15
+ForceContinue:0
+SolverProcessId:14316
