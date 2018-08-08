@@ -1,0 +1,111 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2018 SP3.0. Build: 4173
+                Computer name:   DESKTOP-MH5ULCV
+                User name:   Open AG
+                Processors:   Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+                Memory:   65500 MB / 134217727 MB
+                Operating system:   Windows 10 (or higher) (Version 10.0.17134)
+                CAD version:   SOLIDWORKS 2018 SP3.0
+                CPU speed:   4200 MHz
+
+    General Info
+                Model:   GMR.003.SLDPRT
+                Project name:   Germ Sim 3
+                Project path:   C:\Users\Open AG\Documents\GitHub\openag-mechanical\prj\germinator v3\2
+                Units system:   USA
+                Analysis type:   Internal
+                Exclude cavities without flow conditions :   On
+                Coordinate system:   Global coordinate system
+                Reference axis:   X
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   On
+                Flow type:   Laminar and turbulent
+                High Mach number flow:   Off
+                Humidity:   Off
+                Free surface:   Off
+                Default roughness:   0 microinch
+
+        Gravitational Settings
+                X component:   0 ft/s^2
+                Y component:   -32.19 ft/s^2
+                Z component:   0 ft/s^2
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -2.156 ft
+                X max:   2.156 ft
+                Y min:   -0.569 ft
+                Y max:   0.013 ft
+                Z min:   -1.059 ft
+                Z max:   1.059 ft
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   64
+                Number of cells in Y:   8
+                Number of cells in Z:   32
+
+        Number Of Cells
+                Cells:   344484
+                Fluid cells:   344484
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   2
+
+    Goals
+
+        Global Goals
+
+            GG Av Velocity 1
+                Type:   Global Goal
+                Goal type:   Velocity
+                Calculate:   Average value
+                Coordinate system:   Global coordinate system
+                Use in convergence :   On
+
+            GG Max Velocity 1
+                Type:   Global Goal
+                Goal type:   Velocity
+                Calculate:   Maximum value
+                Coordinate system:   Global coordinate system
+                Use in convergence :   On
+
+        Surface Goals
+
+            SG Mass Flow Rate 1
+                Type:   Surface Goal
+                Goal type:   Mass Flow Rate
+                Faces:   Face<1>
+                Coordinate system:   Global coordinate system
+                Use in convergence :   On
+
+    Goals
+                
+                Name                  	Unit   	Value    	Progress   	Criteria         	Delta           	Use in convergence 
+                GG Av Velocity 1      	ft/s   	4.812    	100        	0.133632059      	0.0397046984    	On                 
+                GG Max Velocity 1     	ft/s   	60.357   	100        	0.426127851      	0.422222544     	On                 
+                SG Mass Flow Rate 1   	lb/s   	0.0187   	100        	1.87312553e-05   	1.6033754e-08   	On                 
+
+    General Info
+                Run at:   DESKTOP-MH5ULCV
+                Number of cores:   8
+                Iterations:   208
+                CPU time:   707 s
+
+        Log
+                Mesh generation started	0:   10:19:09 , Aug 01
+                Mesh generation normally finished	0:   10:19:23 , Aug 01
+                Preparing data for calculation	0:   10:19:23 , Aug 01
+                Calculation started	0:   10:19:30 , Aug 01
+                Calculation has converged since the following criteria are satisfied:	208:   10:31:13 , Aug 01
+                    Goals are converged	208:   
+                Calculation finished	208:   10:31:22 , Aug 01
+                Warnings:   A vortex crosses the pressure opening	Boundary Condition : Environment Pressure 1 ; Inlet flow/outlet flow=0.999353, 		, 
