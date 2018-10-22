@@ -1,6 +1,8 @@
-Material,Quantity,Part Number,Source,Manufacturer,Cost
-"1/4"" x 4' x 8' rigid PVC",0.25,Komatex,Komerling,Komerling,$82.00 
-"1/8"" x 4' x 8' rigid PVC",0.25,Komatex,Komerling,Komerling,$41.00 
-"1/8"" x 36"" x 24"" polycarbonate",0.25,8574K265,McMaster Carr,Komerling,$37.03 
-"3/8"" neoprene rubber",1,8647K25,McMaster Carr,Komerling,$39.78 
-multi-purpose adhesive,1,B01LZQVQM8,Home Depot,3M,$9.99 
+Material,Quantity,Part Number,Source,Manufacturer,Cost,,,,,,,,,,,,,,,,,,,,
+"1/4"" x 4' x 8' rigid PVC",0.25,Komatex,Komerling,Komerling,$82.00 ,,,,,,,,,,,,,,,,,,,,
+"1/8"" x 4' x 8' rigid PVC",0.25,Komatex,Komerling,Komerling,$41.00 ,,,,,,,,,,,,,,,,,,,,
+"1/8"" x 3' x 2' polycarbonate",0.25,8574K265,McMaster Carr,Komerling,$37.03 ,,,,,,,,,,,,,,,,,,,,
+"3/8"" neoprene rubber",1,8647K25,McMaster Carr,Komerling,39.78,,,,,,,,,,,,,,,,,,,,
+multi-purpose adhesive,1,B01LZQVQM8,Home Depot,3M,9.99,,,,,,,,,,,,,,,,,,,,
+"1/16"" x 2' x 2' PETG plastic",,85815K32,McMaster Carr,unlisted,8.35,,,,,,,,,,,,,,,,,,,,
+"1/4"" x 2' x 2' acrylic",1,8560K357,McMaster Carr,Komerling,54.68,,,,,,,,,,,,,,,,,,,,
