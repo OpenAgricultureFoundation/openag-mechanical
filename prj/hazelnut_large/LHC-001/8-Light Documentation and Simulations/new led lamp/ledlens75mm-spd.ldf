@@ -1,0 +1,18 @@
+Name: 75mm Diameter LED & Lens with SPD
+Library Name: LEDLENS75mm-SPD
+Manufacturer: Generic
+Code: LEDLENS75mm-SPD
+Radiant Watts: 3.082870646
+LER: 324.373
+PFER: 4.83986
+PARER: 4.63331
+Lamp Watts: 10
+Typical Ballast Watts: 1
+Lumen Ratio: 1.0
+Layer: LAMP-LEDLENS75mm-SPD1
+Material: ACRYLIC1
+Luminance Filename: 100
+SPD File: LEDLENS75mm-SPD.SPD
+Shading Ability: SHADOW
+
+

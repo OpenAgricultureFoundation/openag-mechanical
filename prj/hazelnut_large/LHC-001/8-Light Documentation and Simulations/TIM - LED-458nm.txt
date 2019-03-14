@@ -1,0 +1,6 @@
+Radiant Watts: 0.839751
+LER: 52.3939
+PFER: 3.85666
+PARER: 3.85666
+Lamp Watts: 1.58
+Typical Ballast Watts: 0.16
